@@ -288,3 +288,6 @@ Logan Services
 
 </body>
 </html>
+<p style="font-size: 12px; color: #666; text-align: center; margin-top: 20px;">
+  <strong>Privacy Policy:</strong> We respect your privacy. Logan Services collects and uses your personal information (such as name, phone number, and email) solely to provide auto repair services, process payments via Stripe, and communicate with you about your vehicle. We do not sell, rent, or share your data with third parties for marketing purposes. All financial transactions are securely processed by Stripe under their privacy guidelines.
+</p>
